@@ -1,0 +1,7 @@
+tensorflow
+pytrends
+gensim
+yfinance
+pandas
+numpy
+json

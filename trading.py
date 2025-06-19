@@ -107,4 +107,6 @@ history = model.fit(
 X_next = np.array([[44, 50, 90, 20]])  # Example input for prediction
 # Forecast:
 y_pred = model.predict(X_next)
+
 print(y_pred)
+

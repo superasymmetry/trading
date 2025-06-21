@@ -4,4 +4,3 @@ gensim
 yfinance
 pandas
 numpy
-json

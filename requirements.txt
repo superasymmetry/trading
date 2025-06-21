@@ -1,7 +1,0 @@
-tensorflow-cpu==2.13.0
-pytrends==4.9.2
-gensim==4.3.3
-yfinance==0.2.33
-pandas==2.2.2
-numpy==1.26.4
-streamlit==1.33.0
